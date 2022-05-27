@@ -1,0 +1,1 @@
+Running absolute path script
