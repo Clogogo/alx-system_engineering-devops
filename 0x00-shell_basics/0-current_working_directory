@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd \n
+head -n 1 pwd \n
